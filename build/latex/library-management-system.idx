@@ -1,0 +1,50 @@
+\indexentry{module@\spxentry{module}!book@\spxentry{book}|hyperpage}{1}
+\indexentry{book@\spxentry{book}!module@\spxentry{module}|hyperpage}{1}
+\indexentry{Book (class in book)@\spxentry{Book}\spxextra{class in book}|hyperpage}{1}
+\indexentry{delete() (Book method)@\spxentry{delete()}\spxextra{Book method}|hyperpage}{1}
+\indexentry{search\_by\_author() (Book static method)@\spxentry{search\_by\_author()}\spxextra{Book static method}|hyperpage}{1}
+\indexentry{search\_by\_isbn() (Book static method)@\spxentry{search\_by\_isbn()}\spxextra{Book static method}|hyperpage}{1}
+\indexentry{search\_by\_title() (Book static method)@\spxentry{search\_by\_title()}\spxextra{Book static method}|hyperpage}{1}
+\indexentry{update() (Book method)@\spxentry{update()}\spxextra{Book method}|hyperpage}{2}
+\indexentry{module@\spxentry{module}!check@\spxentry{check}|hyperpage}{2}
+\indexentry{check@\spxentry{check}!module@\spxentry{module}|hyperpage}{2}
+\indexentry{Check (class in check)@\spxentry{Check}\spxextra{class in check}|hyperpage}{2}
+\indexentry{check\_in() (Check static method)@\spxentry{check\_in()}\spxextra{Check static method}|hyperpage}{2}
+\indexentry{check\_out() (Check static method)@\spxentry{check\_out()}\spxextra{Check static method}|hyperpage}{2}
+\indexentry{module@\spxentry{module}!library@\spxentry{library}|hyperpage}{3}
+\indexentry{library@\spxentry{library}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{Library (class in library)@\spxentry{Library}\spxextra{class in library}|hyperpage}{3}
+\indexentry{add\_book() (Library method)@\spxentry{add\_book()}\spxextra{Library method}|hyperpage}{3}
+\indexentry{add\_user() (Library method)@\spxentry{add\_user()}\spxextra{Library method}|hyperpage}{3}
+\indexentry{remove\_book() (Library method)@\spxentry{remove\_book()}\spxextra{Library method}|hyperpage}{3}
+\indexentry{remove\_user() (Library method)@\spxentry{remove\_user()}\spxextra{Library method}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!main@\spxentry{main}|hyperpage}{3}
+\indexentry{main@\spxentry{main}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{main() (in module main)@\spxentry{main()}\spxextra{in module main}|hyperpage}{3}
+\indexentry{print\_books() (in module main)@\spxentry{print\_books()}\spxextra{in module main}|hyperpage}{3}
+\indexentry{print\_users() (in module main)@\spxentry{print\_users()}\spxextra{in module main}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!models@\spxentry{models}|hyperpage}{3}
+\indexentry{models@\spxentry{models}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{module@\spxentry{module}!storage@\spxentry{storage}|hyperpage}{3}
+\indexentry{storage@\spxentry{storage}!module@\spxentry{module}|hyperpage}{3}
+\indexentry{Storage (class in storage)@\spxentry{Storage}\spxextra{class in storage}|hyperpage}{3}
+\indexentry{load\_books() (Storage static method)@\spxentry{load\_books()}\spxextra{Storage static method}|hyperpage}{3}
+\indexentry{load\_users() (Storage static method)@\spxentry{load\_users()}\spxextra{Storage static method}|hyperpage}{4}
+\indexentry{save\_books() (Storage static method)@\spxentry{save\_books()}\spxextra{Storage static method}|hyperpage}{4}
+\indexentry{save\_users() (Storage static method)@\spxentry{save\_users()}\spxextra{Storage static method}|hyperpage}{4}
+\indexentry{module@\spxentry{module}!testing@\spxentry{testing}|hyperpage}{4}
+\indexentry{testing@\spxentry{testing}!module@\spxentry{module}|hyperpage}{4}
+\indexentry{TestLibraryManagementSystem (class in testing)@\spxentry{TestLibraryManagementSystem}\spxextra{class in testing}|hyperpage}{4}
+\indexentry{setUp() (TestLibraryManagementSystem method)@\spxentry{setUp()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{tearDown() (TestLibraryManagementSystem method)@\spxentry{tearDown()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{test\_check\_in() (TestLibraryManagementSystem method)@\spxentry{test\_check\_in()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{test\_check\_out() (TestLibraryManagementSystem method)@\spxentry{test\_check\_out()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{test\_save\_and\_load\_books() (TestLibraryManagementSystem method)@\spxentry{test\_save\_and\_load\_books()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{test\_save\_and\_load\_users() (TestLibraryManagementSystem method)@\spxentry{test\_save\_and\_load\_users()}\spxextra{TestLibraryManagementSystem method}|hyperpage}{4}
+\indexentry{module@\spxentry{module}!user@\spxentry{user}|hyperpage}{5}
+\indexentry{user@\spxentry{user}!module@\spxentry{module}|hyperpage}{5}
+\indexentry{User (class in user)@\spxentry{User}\spxextra{class in user}|hyperpage}{5}
+\indexentry{delete() (User method)@\spxentry{delete()}\spxextra{User method}|hyperpage}{5}
+\indexentry{search\_by\_id() (User static method)@\spxentry{search\_by\_id()}\spxextra{User static method}|hyperpage}{5}
+\indexentry{search\_by\_name() (User static method)@\spxentry{search\_by\_name()}\spxextra{User static method}|hyperpage}{5}
+\indexentry{update() (User method)@\spxentry{update()}\spxextra{User method}|hyperpage}{5}
